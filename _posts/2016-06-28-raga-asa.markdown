@@ -4,11 +4,11 @@ title:  "Raga Asa"
 date:   2016-06-28 13:58:11 +0530
 categories: learning
 ---
-Raga Asa is one the important raga of Gurmat Sangeet. In fact, it is believed that Raga Asa oringinated from Punjab and in Sikh Tradition.
+Raga Asa is one the important raga of Gurmat Sangeet. In fact, it is believed that Raga Asa originated from Punjab and in Sikh Tradition.
 
-Raga Asa is not so popular in North Indian Classical Music. In fact, it is considered as modern raga. Pandit Vishnu Digambar Pluskar visited Punjab in 1988 and learned this raga from Sikh Musicians. Before that, Raga Asa was not available in North Indian Classical Music.
+Raga Asa is not so popular in North Indian Classical Music. In fact, it is considered as modern raga. Pandit Vishnu Digambar Paluskar visited Punjab in 1988 and learned this raga from Sikh Musicians. Before that, Raga Asa was not available in North Indian Classical Music.
 
-In Sikh Tradition, Raga Asa is sung daily in Morining as in Asa ki vaar and in evening as in Sodar di Chuanki. 
+In Sikh Tradition, Raga Asa is sung daily in Morning as in Asa ki vaar and in the evening as in Sodar di Chuanki. 
 
 ## Musical Details of Asa
 <audio src="{{site.baseurl}}/assets/audio/asa.mp3" controls></audio>
